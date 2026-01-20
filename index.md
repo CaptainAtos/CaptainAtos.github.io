@@ -3,5 +3,8 @@ layout: home
 title: false
 ---
 
-Online DEVLOG von CaptainAtos 🎮  
-Hier dokumentiere ich meine GameDev-Projekte während des Studiums.
+👋 Willkommen!
+
+Das ist mein persönlicher **GameDev-Devlog** 🎮  
+Hier dokumentiere ich regelmäßig den Fortschritt meiner Projekte
+während meines Studiums.
