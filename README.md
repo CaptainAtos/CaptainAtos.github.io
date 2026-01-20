@@ -1,2 +1,4 @@
 # CaptainAtos.github.io
-Online DEVLOG CaptainAtos
+
+Repository für meinen GameDev-Devlog  
+➡️ https://captainatos.github.io
